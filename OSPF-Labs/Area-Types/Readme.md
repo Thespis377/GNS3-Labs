@@ -12,3 +12,7 @@ The external routes are just loopbacks and the command 'redistribute connected' 
 I am using the IOU3 image.  I removed all interface modules but 1 to reduce the load this lab might generate.  The area 0 routers actually have 2 modules for a total of 8 ports.  Just in case you want to modify the topology.
 
 Initial config has 96 routes.
+
+!Topology
+----
+![OSPF Toplogy](Narbik-OSPF-Area-Type-Lab.png)
