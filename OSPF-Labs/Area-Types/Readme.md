@@ -1,3 +1,4 @@
+# Description
 Project: 'OSPF Area Types Lab' created on 2022-02-04
 Author: Greg <thespis@gmail.com>
 
@@ -13,6 +14,6 @@ I am using the IOU3 image.  I removed all interface modules but 1 to reduce the 
 
 Initial config has 96 routes.
 
-!Topology
+# Topology
 ----
 ![OSPF Toplogy](Narbik-OSPF-Area-Type-Lab.png)
